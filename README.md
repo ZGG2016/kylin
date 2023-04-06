@@ -1,1 +1,1 @@
-Apache Kylin
+Kylin
